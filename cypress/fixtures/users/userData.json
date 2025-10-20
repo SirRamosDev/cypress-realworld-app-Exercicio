@@ -1,0 +1,10 @@
+{
+    "userSucsses": {
+        "usernameField": "Heath93",
+        "passwordField": "s3cret"
+},
+    "userFail": {
+        "usernameField": "WrongUser",
+        "passwordField": "wrongPass"
+    }
+}
