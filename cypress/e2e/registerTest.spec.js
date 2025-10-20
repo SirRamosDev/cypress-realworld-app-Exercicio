@@ -1,5 +1,5 @@
-import userData from '../fixtures/userData.json';
-import RegisterPage from '../pages/registerPage';
+import userData from '../fixtures/users/userData.json'
+import RegisterPage from '../pages/RegisterPage.js'
 
 const registerPage = new RegisterPage()
 
@@ -17,6 +17,7 @@ describe('Real Word App - Testes de Registro de Usuário', () => {
     it('Tentativa de registro com informações incompletas', () => {
         registerPage.accessRegisterPage()
         registerPage.submitRegistration()
-        registerPage.checkIncompleteError()
+        registerPage.checkButtonDisabled()
+
     })
 })

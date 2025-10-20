@@ -1,8 +1,8 @@
-class DashboarPage {
+class DashboardPage {
 
     selectorList(){
         const selectors = {
-            dashboardHeader: '[data-test="sidenav-home"]]'
+            dashboardHeader: '[data-test="sidenav-home"]'
     }
     return selectors
 }

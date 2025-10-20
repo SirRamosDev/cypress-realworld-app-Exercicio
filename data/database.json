@@ -74,6 +74,138 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "wP8t1aIaI",
+      "uuid": "8c656493-7311-44dc-9bae-6c6a244e30a6",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$ek8GQH.i59qTqNetcmBgaeylDElYBI6j2GuYpkpYepCCzwnl23nAi",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:27:43.567Z",
+      "modifiedAt": "2025-10-20T16:27:43.567Z"
+    },
+    {
+      "id": "lGK7LXjSV",
+      "uuid": "c716a7be-9ac3-4b6f-b052-e5a8e8069eae",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$o1jOPMyWULliU1QCX5dFg.sRv2YylMmjH5IxFivDAr.YwKk9X7RNW",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:37:57.973Z",
+      "modifiedAt": "2025-10-20T16:37:57.973Z"
+    },
+    {
+      "id": "DavpF5dPw",
+      "uuid": "e0c8dc88-73b7-4fca-8d18-ca8e5e8924cf",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$vX0xQlLyfML/xxLVa7OO6.NHpMzzlfwW9tuLtQAsjRDA2WnWCM2bu",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:38:53.673Z",
+      "modifiedAt": "2025-10-20T16:38:53.673Z"
+    },
+    {
+      "id": "g7o70MWtT",
+      "uuid": "f32f3f3c-28d0-442f-92f1-ff1cca2df819",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$aeqCC0reM5UGVfV.jz.x8es5KXbmtpTzJmfiZLoq9LG8njsIoilTC",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:39:57.289Z",
+      "modifiedAt": "2025-10-20T16:39:57.289Z"
+    },
+    {
+      "id": "Vx_5kOxj1",
+      "uuid": "bff84cbc-4790-40c3-b0c6-6c51a85889a0",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$ofBPWI5sjK6zz9fFEPm5Y.esJkK4.shaBkBNdS7ySR/.e34Ik4SPC",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:42:58.513Z",
+      "modifiedAt": "2025-10-20T16:42:58.513Z"
+    },
+    {
+      "id": "sowTOGEPf",
+      "uuid": "ea69485d-0839-4291-94cf-147fa78852ab",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$H2wAfoni0d.WlkTT1Ty.1ecgui/K9G8TSWqtZVLvXGIM6GGjH6ynS",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:44:40.705Z",
+      "modifiedAt": "2025-10-20T16:44:40.705Z"
+    },
+    {
+      "id": "D2IzNKqyQ",
+      "uuid": "cbcafb10-910f-4226-80ef-886e580e66b9",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$6WkPs5js1z5oKfVn0FRsCuh/nwAR1XLhoauyCAuSTUDWBsCHdcFEu",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:45:34.651Z",
+      "modifiedAt": "2025-10-20T16:45:34.651Z"
+    },
+    {
+      "id": "g7QzPKTAr",
+      "uuid": "80ae2447-02f1-4fb5-aae3-4a057a769d5d",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$LIo4FEiz5olmjjXFaQQSwui2RxtRk7tkALe5TfJ6Gv6dtZsWsOtWy",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:45:55.599Z",
+      "modifiedAt": "2025-10-20T16:45:55.599Z"
+    },
+    {
+      "id": "GJ8jgOHLM",
+      "uuid": "7240b6b2-aed8-493f-9a3e-d55efced5b4a",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$WxCZwFE8NSfwmHsoUddWP.LvaMbeKjo4uW4tBda.8/WQ.cUJVbzrm",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:50:01.942Z",
+      "modifiedAt": "2025-10-20T16:50:01.942Z"
+    },
+    {
+      "id": "sSqQejyRE",
+      "uuid": "deac27cc-c2d9-424c-9eb7-a968a828d160",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$ruu6pkhfkpGmjI88.Uiy8.TsYdvVR9q.lJh5c6TGFBtia1KH/FO8m",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:50:16.352Z",
+      "modifiedAt": "2025-10-20T16:50:16.352Z"
+    },
+    {
+      "id": "pFvOKaDsG",
+      "uuid": "06df4728-79a5-4bae-9d84-a466af77c25b",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$io5VC1ipUYNxNh58Ir/YVuXhM3wQOmrCUKiuGxaIvM/Rghm.q0dT.",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:51:06.562Z",
+      "modifiedAt": "2025-10-20T16:51:06.562Z"
+    },
+    {
+      "id": "Mb62BKhFw",
+      "uuid": "68b055d6-046b-499a-9126-5d8b40296b2c",
+      "firstName": "Mateus",
+      "lastName": "Ramos",
+      "username": "mateusNovo",
+      "password": "$2a$10$PdW6Izg8OLm6DLBpworto.jRTfZknMRna9CEm3wC6bYu/QhWdX7Oy",
+      "balance": 0,
+      "createdAt": "2025-10-20T16:51:20.165Z",
+      "modifiedAt": "2025-10-20T16:51:20.165Z"
     }
   ],
   "contacts": [

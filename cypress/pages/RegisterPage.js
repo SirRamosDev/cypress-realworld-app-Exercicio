@@ -7,6 +7,7 @@ class RegisterPage {
             passwordField: '[data-test="signup-password"]',
             confirmPasswordField: '[data-test="signup-confirmPassword"]',
             submitButton: '[data-test="signup-submit"]',
+            submitButtonDisabled: "[disabled='']",
             errorMessage: '[data-test="signup-error"]'
             }
             return selectors
@@ -23,15 +24,15 @@ class RegisterPage {
         cy.get(this.selectorList().confirmPasswordField).type(confirmPassword)
     }
     submitRegistration() {
-        cy.get(this.selectorList().submitButton).click()
+        cy.get(this.selectorList().submitButton).click( {force: true})
     }
-    checkIncompleteError(expectedMessage) {
-        cy.get(this.selectorList().errorMessage)
-            .should('be.visible')
-            .and('contain', expectedMessage)
-    }
+    checkButtonDisabled() {
+        cy.get(this.selectorList().submitButtonDisabled).should('exist')
+  }
 
-    
+    checkErrorMessage() {
+        cy.get(this.selectorList().errorMessage).should('be.visible')
+  }
 }
 
 export default RegisterPage

@@ -9,11 +9,11 @@ class LoginPage{
         return selectors
 
     }
-    acessLoginPage(){
+    accessLoginPage(){
         cy.visit('/signin')
     }
 
-    loginWithUser(username,password){
+    loginWithAnyUser(username, password){
         cy.get(this.selectorList().usernameField).type(username)
         cy.get(this.selectorList().passwordField).type(password)
         cy.get(this.selectorList().loginButton).click()
@@ -26,4 +26,4 @@ class LoginPage{
     }
 }
 
-export default LoginPage()
+export default LoginPage
