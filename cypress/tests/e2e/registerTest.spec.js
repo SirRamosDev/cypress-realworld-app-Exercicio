@@ -1,4 +1,4 @@
-import userData from '../fixtures/users/userData.json'
+import userData from '../../tests/fixtures/users/userData.json' 
 import RegisterPage from '../pages/RegisterPage.js'
 
 const registerPage = new RegisterPage()

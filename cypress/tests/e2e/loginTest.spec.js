@@ -1,4 +1,4 @@
-import userData from '../fixtures/users/userData.json'
+import userData from '../../tests/fixtures/users/userData.json'
 import LoginPage from '../pages/LoginPage.js'
 import DashboardPage from '../pages/DashboardPage.js'
 
