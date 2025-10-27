@@ -13,5 +13,20 @@
         "username": "mateusNovo",
         "password": "SenhaValida456!",
         "confirmPassword": "SenhaValida456!"
-  }
+  },
+    "transferValid": {
+        "recipient": "Katharina",
+        "amount": 50.00,
+        "description": "Rent payment"
+    },
+    "transferInvalid": {
+        "recipient": "Katharina",
+        "amount": 10000.00,
+        "description": "Large transfer"
+    },
+    "tranferZero": {
+        "recipient": "Katharina",
+        "amount": 0.00,
+        "description": "Zero transfer"
+    }
 }
