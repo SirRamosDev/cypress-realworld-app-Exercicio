@@ -5,7 +5,7 @@ class TransferPage {
         const selector = {
             newTransactionButton: '[data-test="nav-top-new-transaction"]',
             searchUserInput: '[data-test="user-list-search-input"]',
-            userResultItem: '[data-test="user-list-item"]',
+            userResultItem: '[data-test="user-list-item-GjWovtg2hr"]',
             amountInput: '[data-test="transaction-create-amount-input"]',
             noteInput: '[data-test="transaction-create-description-input"]',
             submitButton: '[data-test="transaction-create-submit-payment"]',

@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 658626,
+      "balance": 30000678626,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -9903,6 +9903,66 @@
       "status": "complete",
       "createdAt": "2025-10-27T15:40:23.863Z",
       "modifiedAt": "2025-10-27T15:40:23.863Z"
+    },
+    {
+      "id": "_YWyiI4ZQ",
+      "uuid": "375a22a5-8d79-45a2-963d-6c38ee7cf2e2",
+      "amount": 10000,
+      "description": "Test Transfer",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-10-27T16:17:51.529Z",
+      "modifiedAt": "2025-10-27T16:17:51.529Z"
+    },
+    {
+      "id": "SydUxmR2o",
+      "uuid": "32008286-86d0-499a-8365-abed132e6b18",
+      "amount": 10000000000,
+      "description": "Test Transfer Insufficient Funds",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-10-27T16:17:53.640Z",
+      "modifiedAt": "2025-10-27T16:17:53.640Z"
+    },
+    {
+      "id": "kR18N4HhN",
+      "uuid": "bc898684-c183-4183-85cb-6a53e7a4fadc",
+      "amount": 10000,
+      "description": "Test Transfer",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-10-27T16:18:21.473Z",
+      "modifiedAt": "2025-10-27T16:18:21.473Z"
+    },
+    {
+      "id": "zT075JdG_",
+      "uuid": "a2a83541-2684-4ae7-9a66-359ffc1fa5e3",
+      "amount": 10000000000,
+      "description": "Test Transfer Insufficient Funds",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-10-27T16:19:08.972Z",
+      "modifiedAt": "2025-10-27T16:19:08.972Z"
+    },
+    {
+      "id": "4w5KCjnRu",
+      "uuid": "b01dba4b-766a-4b0e-b494-639f40c081bb",
+      "amount": 10000000000,
+      "description": "Test Transfer Insufficient Funds",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-10-27T16:21:03.173Z",
+      "modifiedAt": "2025-10-27T16:21:03.173Z"
     }
   ],
   "likes": [
@@ -10519,6 +10579,56 @@
       "isRead": false,
       "createdAt": "2025-10-27T15:40:23.885Z",
       "modifiedAt": "2025-10-27T15:40:23.885Z"
+    },
+    {
+      "id": "WR_6dDUI5Z",
+      "uuid": "46a85b5f-aa45-4129-bde6-338f0662e5ea",
+      "userId": "GjWovtg2hr",
+      "transactionId": "_YWyiI4ZQ",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-10-27T16:17:51.539Z",
+      "modifiedAt": "2025-10-27T16:17:51.539Z"
+    },
+    {
+      "id": "DdwH5RvmiC",
+      "uuid": "628c1a6c-0a71-41dc-a391-fe1b7efe937a",
+      "userId": "GjWovtg2hr",
+      "transactionId": "SydUxmR2o",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-10-27T16:17:53.647Z",
+      "modifiedAt": "2025-10-27T16:17:53.647Z"
+    },
+    {
+      "id": "LXOH2gOlys",
+      "uuid": "b0d76439-c448-4047-b7c8-bf676570e7e6",
+      "userId": "GjWovtg2hr",
+      "transactionId": "kR18N4HhN",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-10-27T16:18:21.481Z",
+      "modifiedAt": "2025-10-27T16:18:21.481Z"
+    },
+    {
+      "id": "XmNDQL-hsM",
+      "uuid": "9cc5fc33-a020-4e7e-9269-40f841b72ef6",
+      "userId": "GjWovtg2hr",
+      "transactionId": "zT075JdG_",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-10-27T16:19:08.983Z",
+      "modifiedAt": "2025-10-27T16:19:08.983Z"
+    },
+    {
+      "id": "7g6vJjKOT5",
+      "uuid": "5d1de22e-0b41-4f50-a641-52abaedabbf9",
+      "userId": "GjWovtg2hr",
+      "transactionId": "4w5KCjnRu",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-10-27T16:21:03.182Z",
+      "modifiedAt": "2025-10-27T16:21:03.182Z"
     }
   ],
   "banktransfers": [
@@ -11091,6 +11201,56 @@
       "type": "withdrawal",
       "createdAt": "2025-10-27T15:40:23.870Z",
       "modifiedAt": "2025-10-27T15:40:23.870Z"
+    },
+    {
+      "id": "Pkli96lhz5",
+      "uuid": "8319f73b-ea36-47a0-8af7-69ddf3a6e6e4",
+      "userId": "uBmeaz5pX",
+      "amount": 10000,
+      "transactionId": "_YWyiI4ZQ",
+      "type": "withdrawal",
+      "createdAt": "2025-10-27T16:17:51.533Z",
+      "modifiedAt": "2025-10-27T16:17:51.533Z"
+    },
+    {
+      "id": "3epky4gpon",
+      "uuid": "37676c8d-3247-4eb0-9377-c9b04037d112",
+      "userId": "uBmeaz5pX",
+      "amount": 10000000000,
+      "transactionId": "SydUxmR2o",
+      "type": "withdrawal",
+      "createdAt": "2025-10-27T16:17:53.641Z",
+      "modifiedAt": "2025-10-27T16:17:53.641Z"
+    },
+    {
+      "id": "ql3XycfVQO",
+      "uuid": "12ac8801-0d7c-4bae-aa89-27316a89a589",
+      "userId": "uBmeaz5pX",
+      "amount": 10000,
+      "transactionId": "kR18N4HhN",
+      "type": "withdrawal",
+      "createdAt": "2025-10-27T16:18:21.475Z",
+      "modifiedAt": "2025-10-27T16:18:21.475Z"
+    },
+    {
+      "id": "m3s9ETjOED",
+      "uuid": "77197897-0207-42d9-85d6-d00f2fe860ec",
+      "userId": "uBmeaz5pX",
+      "amount": 10000000000,
+      "transactionId": "zT075JdG_",
+      "type": "withdrawal",
+      "createdAt": "2025-10-27T16:19:08.978Z",
+      "modifiedAt": "2025-10-27T16:19:08.978Z"
+    },
+    {
+      "id": "gXn6aCWJ0V",
+      "uuid": "29216170-c207-44a1-a00f-a07bdc82ce16",
+      "userId": "uBmeaz5pX",
+      "amount": 10000000000,
+      "transactionId": "4w5KCjnRu",
+      "type": "withdrawal",
+      "createdAt": "2025-10-27T16:21:03.176Z",
+      "modifiedAt": "2025-10-27T16:21:03.176Z"
     }
   ]
 }
