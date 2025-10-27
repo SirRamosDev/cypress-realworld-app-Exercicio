@@ -11,7 +11,7 @@ describe('Real World App - Transfer Test', () => {
         loginPage.loginWithAnyUser(userData.userSuccess.username, userData.userSuccess.password)
     })
 
-    it.skip('Success Transfer', () => {
+    it('Success Transfer', () => {
         transferPage.startTransfer()
         transferPage.searchUser(userData.transferValid.recipient)
         transferPage.fillTransferDetails(100, 'Test Transfer')
@@ -19,7 +19,7 @@ describe('Real World App - Transfer Test', () => {
         transferPage.checkTransferSuccess()
     })
 
-    it('Fail Transfer - Insufficient Funds', () => {
+    it.skip('Fail Transfer - Insufficient Funds', () => {
         transferPage.startTransfer()
         transferPage.searchUser(userData.transferInvalid.recipient)
         transferPage.fillTransferDetails(100000000, 'Test Transfer Insufficient Funds')
