@@ -15,17 +15,17 @@
         "confirmPassword": "SenhaValida456!"
   },
     "transferValid": {
-        "recipient": "Katharina",
+        "recipient": "kristian",
         "amount": 50.00,
         "description": "Rent payment"
     },
     "transferInvalid": {
-        "recipient": "Katharina",
+        "recipient": "kristian",
         "amount": 10000.00,
         "description": "Large transfer"
     },
     "tranferZero": {
-        "recipient": "Katharina",
+        "recipient": "kristian",
         "amount": 0.00,
         "description": "Zero transfer"
     }
